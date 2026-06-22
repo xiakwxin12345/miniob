@@ -1,0 +1,5 @@
+*.zip
+*.log
+build/
+build_debug/
+deps/build/
